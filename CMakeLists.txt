@@ -28,6 +28,7 @@ install(DIRECTORY
   launch
   config
   rviz
+  notebooks
   DESTINATION share/${PROJECT_NAME}
 )
 ament_package()
